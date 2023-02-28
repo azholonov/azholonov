@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**azholonov/azholonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**azholonov/azholonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # About Me
 Hi there :wave: 
@@ -44,6 +44,6 @@ I'm Akyl Zholonov, a Software Engineer (.Net, Flutter, Swift).
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/azholonov?label=Follow%20Me&style=social" />
 
 -----
-Credits: [tanaytoshniwal](https://github.com/tanaytoshniwal)
+Credits: [azholonov](https://github.com/azholonov)
 
-Last Edited on: 30/08/2020
+Last Edited on: 01/02/2023
